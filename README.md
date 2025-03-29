@@ -13,7 +13,7 @@
 - 📫 Reach me at: **jugraaj.bhatia2003@gmail.com**
 - 🚀 Currently learning: Advanced cybersecurity & AI for security applications
 - 🤝 Open to collaborating on security and full-stack development projects
-
+-  🧠 I'm learning Cybersecurity
 ---
 
 ### 📌 Connect with Me:
